@@ -1,4 +1,4 @@
-# burc_deneme
+# horoscope_app
 
 A new Flutter project.
 
